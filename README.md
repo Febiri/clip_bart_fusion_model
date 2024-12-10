@@ -19,6 +19,7 @@ Cross-Attention Mechanism: Ensures robust interaction between image and text emb
 
 A collection of technical project documents from SRM University AP (capstone projects).
 Preprocessed to extract essential sections and associated images for training.
+https://drive.google.com/drive/folders/1Ic6JxjHKkEe5tGIzkyitVuNQwbm0Dj7p?usp=sharing
 
 **Model Architecture**
 
